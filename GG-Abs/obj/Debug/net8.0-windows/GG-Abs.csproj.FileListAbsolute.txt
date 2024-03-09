@@ -1,0 +1,16 @@
+C:\Users\rdonn\source\repos\GG-Abs\bin\Debug\net8.0-windows\GG-Abs.exe
+C:\Users\rdonn\source\repos\GG-Abs\bin\Debug\net8.0-windows\GG-Abs.deps.json
+C:\Users\rdonn\source\repos\GG-Abs\bin\Debug\net8.0-windows\GG-Abs.runtimeconfig.json
+C:\Users\rdonn\source\repos\GG-Abs\bin\Debug\net8.0-windows\GG-Abs.dll
+C:\Users\rdonn\source\repos\GG-Abs\bin\Debug\net8.0-windows\GG-Abs.pdb
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG_Abs.Form1.resources
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.csproj.GenerateResource.cache
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.AssemblyInfoInputs.cache
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.AssemblyInfo.cs
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.csproj.CoreCompileInputs.cache
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.dll
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\refint\GG-Abs.dll
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.pdb
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\GG-Abs.genruntimeconfig.cache
+C:\Users\rdonn\source\repos\GG-Abs\obj\Debug\net8.0-windows\ref\GG-Abs.dll
